@@ -13,9 +13,13 @@ Focused on solving complex problems, shipping fast, reliable web experiences, an
 
 ---
 
-## Expertise
+## Core Competencies
 
-React • Javascript • Node.js • Express • MongoDB • MySQL • Redis • AWS • Jest / RTL • Electron • Shaka Player • VideoJS
+**Platform Engineering** • Scaling consumer platforms, developer tooling, engineering productivity  
+**Full Stack Development** • React, Node.js, JavaScript, modern web technologies  
+**Media & Streaming** • Video platform architecture, Shaka Player, VideoJS  
+**Cloud Architecture** • AWS, distributed systems, database design (MongoDB, MySQL, Redis)  
+**Quality Engineering** • Testing frameworks (Jest, RTL), CI/CD, reliable software delivery
 
 ---
 
