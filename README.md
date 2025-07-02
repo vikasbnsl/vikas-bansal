@@ -1,6 +1,5 @@
-# [Vikas bansal](https://github.com/vikasbnsl/vikas-bansal)
-
-### Sr. Staff Engineer, ServiceNow
+# [Vikas bansal](https://vikasbnsl.github.io/vikas-bansal/)
+Sr. Staff Engineer, ServiceNow
 
 [linkedin.com/bansalVks](https://linkedin.com/bansalVks) | [bansal.vks+pro@gmail.com](mailto:bansal.vks+pro@gmail.com) 
 
