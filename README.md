@@ -5,9 +5,9 @@ Sr. Staff Engineer, ServiceNow
 
 ---
 
-## Summary
+## Pitch
 
-Seasoned full stack engineer with 12+ years of experience scaling consumer platforms such as ServiceNow Store, Atlassian Marketplace, Disney+ Hotstar, SonyLiv and Airtel Xstream. 
+Sr. Staff Engineer with 12+ years architecting and scaling high-traffic consumer platforms serving millions of users. Led platform modernization initiatives at ServiceNow Store, Atlassian Marketplace, Disney+ Hotstar, SonyLiv, and Airtel Xstream.
 
 Focused on solving complex problems, shipping fast, reliable web experiences, and boosting developer productivity through strong engineering practices.
 
