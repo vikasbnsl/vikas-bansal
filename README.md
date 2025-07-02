@@ -24,20 +24,22 @@ React • Javascript • Node.js • Express • MongoDB • MySQL • Redis •
 
 ### [Service Now Store](https://store.servicenow.com/store) | Sr. Staff Engineer | Nov 2024 - Present
 
-**Objective**
+**Objective**  
+Own and evolve Instance Scan and developer tooling so teams can build scalable, secure ServiceNow apps.
 
-Own and evolve foundational platform capabilities that help developers build scalable, secure ServiceNow apps.
+**Strategy**  
+- **Instance Scan**  
+  - Shipped a queue feature that prevents scan rejections when one is already running, placing new requests in a queue instead.  
+  - Added the Delta Scan option to surface only new or changed records.  
+- **TypeScript migration**  
+  - Used an LLM workflow to migrate the entire code base from JS to TS.  
+  - Built an internal CLI that converts any JS repo to TS with one command.
 
-**Strategy**
-
-- Designed a Guided Upgrade workflow that automates repetitive upgrade steps.
-- Built a centralized upgrade hub with real-time status through the Management Interface Framework (MIF).
-- Integrated automation for ATF test generation, skipped-record handling, and update-set creation.
-
-**Impact**
-
-- Cut administrator upgrade effort by about 40 percent and reduced upgrade errors.
-- Gave company-wide visibility into upgrade progress across environments.
+**Impact**  
+- Queue feature allows consumers to submit scans without waiting for previous ones to complete.
+- Delta Scan reduces scan time by 93%, dramatically improving pipeline efficiency.
+- TypeScript migration improves static checking, code quality and catches bugs earlier, therefore leading to fewer bugs.
+- The conversion cli-tool is helping JS → TS move across the org.
 
 ---
 
