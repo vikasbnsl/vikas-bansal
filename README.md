@@ -15,11 +15,11 @@ Focused on solving complex problems, shipping fast, reliable web experiences, an
 
 ## Core Competencies
 
-**Platform Engineering** • Scaling consumer platforms, developer tooling, engineering productivity  
+**Platform Engineering** • Built consumer WEB platforms, developer tooling, engineering standards and productivity  
 **Full Stack Development** • React, Node.js, JavaScript, modern web technologies  
 **Media & Streaming** • Video platform architecture, Shaka Player, VideoJS  
-**Cloud Architecture** • AWS, distributed systems, database design (MongoDB, MySQL, Redis)  
-**Quality Engineering** • Testing frameworks (Jest, RTL), CI/CD, reliable software delivery
+**Architecture** • AWS, distributed systems, database design (MongoDB, MySQL, Redis)  
+**Quality Engineering** • Testing frameworks (Jest, RTL, Playwright), CI/CD, reliable software delivery
 
 ---
 
