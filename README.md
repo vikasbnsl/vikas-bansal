@@ -104,10 +104,18 @@ Build Airtel Xstream’s first **web OTT platform** from the ground up, expandin
 - Established engineering practices later adopted by a 10+ person web team and referenced in company web guidelines.
 
 ---
-
 ## Earlier Experience
 
-- Senior Engineer – Accedo / SonyLiv (Jul 2017 - Sep 2018)
-- Senior Engineer – UST Global (Aug 2016 - Jul 2017)
-- Software Engineer – Paxcel (Jul 2014 - Aug 2016)
-- Software Engineer – Infocity Hosting (May 2013 - Jul 2014)
+- **Senior Engineer**, Accedo / SonyLiv  
+  _Jul 2017 – Sep 2018_
+
+- **Senior Engineer**, UST Global  
+  _Aug 2016 – Jul 2017_
+
+- **Software Engineer**, Paxcel  
+  _Jul 2014 – Aug 2016_
+
+- **Software Engineer**, Infocity Hosting  
+  _May 2013 – Jul 2014_
+
+
