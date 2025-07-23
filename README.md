@@ -15,10 +15,13 @@ Focused on solving complex problems, shipping fast, reliable web experiences, an
 
 ## Core Competencies
 
-**Frontend-Heavy Full Stack** • React, TypeScript, JavaScript, Node.js, modern web frameworks and libraries  
-**Platform Engineering** • Built consumer WEB platforms, developer tooling, engineering standards and productivity  
-**Media & Streaming** • Video platform architecture, Shaka Player, VideoJS, web video optimization  
-**Quality Engineering** • Testing frameworks (Jest, RTL, Playwright), CI/CD, reliable software delivery
+- **Frontend-Heavy Full Stack**: React, TypeScript, JavaScript, Node.js, MySql, Mongodb and modern technologies
+
+- **Platform Engineering**: Architecting scalable consumer web platforms, building robust developer tooling, establishing high engineering standards, and improving developer productivity
+
+- **Media & Streaming**: Designing and optimizing video platform architectures, expertise with Shaka Player, VideoJS, and web video performance optimization
+
+- **Quality Engineering**: Implementing comprehensive testing strategies using Jest, RTL, and Playwright, along with solid CI/CD practices ensuring reliable software delivery
 
 ---
 
