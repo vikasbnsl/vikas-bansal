@@ -69,7 +69,7 @@ Modernize Atlassian Marketplace web stack to boost growth, trust, and developer 
 
 **Objective**
 
-Enhance video playback user experience on WebOS and Tizen smart TVs.
+Enhance video playback experience for users and significantly improve developer productivity on WebOS and Tizen smart TVs.
 
 **Strategy**
 
